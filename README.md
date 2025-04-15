@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=YoungWoo's%20%GitHub!💻&height=300) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
------
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=im0u0328)](https://solved.ac/im0u0328)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=im0u0328)](https://solved.ac/im0u0328)
 
 -----
 
